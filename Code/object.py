@@ -13,4 +13,4 @@ print(S)
 z = [a, b, e, S]
 print(z)
 print(z[3])
-print(z[3], S[0])
+print(z[3][0])
