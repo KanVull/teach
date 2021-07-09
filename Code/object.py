@@ -10,3 +10,7 @@ else:
     print("Неверно")
 S = "str"
 print(S)
+z = [a, b, e, S]
+print(z)
+print(z[3])
+print(z[0])
