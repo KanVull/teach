@@ -8,4 +8,5 @@ if e:
     print("Верно")
 else:
     print("Неверно")
-
+S = "str"
+print(S)
